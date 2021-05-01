@@ -1,2 +1,4 @@
-const me = "leo"
-console.log(me)
+const me = {
+    name: "leo",
+};
+const someVar = "Yes"
